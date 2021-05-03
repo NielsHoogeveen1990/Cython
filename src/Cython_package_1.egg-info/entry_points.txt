@@ -1,0 +1,3 @@
+[console_scripts]
+CYTHON = Cython_app.cli:main
+

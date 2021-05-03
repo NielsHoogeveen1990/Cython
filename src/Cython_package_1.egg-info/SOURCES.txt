@@ -1,0 +1,12 @@
+setup.py
+src/Cython_app/__init__.py
+src/Cython_app/cli.py
+src/Cython_app/Cython_package/__init__.py
+src/Cython_app/Cython_package/primes.c
+src/Cython_app/Sub_package/__init__.py
+src/Cython_app/Sub_package/calculate_primes.py
+src/Cython_package_1.egg-info/PKG-INFO
+src/Cython_package_1.egg-info/SOURCES.txt
+src/Cython_package_1.egg-info/dependency_links.txt
+src/Cython_package_1.egg-info/entry_points.txt
+src/Cython_package_1.egg-info/top_level.txt
